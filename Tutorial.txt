@@ -1,0 +1,48 @@
+Greetings Broken People!
+Saludos Gente Rota!
+
+Today we're going to learn how programm using php
+Hoy vamos a aprender como programar usando php
+
+All we have to do is:
+Lo que debemos hacer es:
+
+    1) Download WampServer
+    1)Descargar WampServer
+    URL: http://www.wampserver.com/en/
+
+    2) Install the wampserver - click next, next, install, you know what i mean...
+    2) Instalan el wampserver - click siguiente, siguiente, instalar, ya saben...
+
+    3) Download a text editor (or use the note pad instead) and install it
+    3) Descargar un editor de texto (o usar el bloc de notas) e instálalo
+    URL  https://www.sublimetext.com/
+
+    4) Start the wamp server
+    4) Iniclia el Wamp Server!
+    Ready, every project will be saved at C:/Wamp/www/CreateFolder/index.php
+    Listo, Todos los proyectos se guardarán en C:/Wamp/www/CreasCarpeta/index.php
+
+    5) Start programming
+    Comenzar a Programar!!! n_n
+
+    6) Try saving this code in the www path
+    6) Intenta guardando este codigo en la ruta www
+
+    Now test your code by writting the next url on your browser
+    Ahora prueba tu código escribiendo la siguiente url en tu navegador
+ 
+    Click on Your Projects / Your project name 
+    Click en TUs proyectos / Nombre de proyecto
+
+
+    Terminamos! FUnciona!
+    we've finished it works!
+
+    Well, let's start!
+    Bueno, comencemos!
+
+
+
+
+
